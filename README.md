@@ -1,2 +1,2 @@
 # PythonPractise
-Practise python programming
+Practise python programming as it's simply but also important and widly use.
